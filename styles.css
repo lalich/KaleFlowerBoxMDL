@@ -1,0 +1,74 @@
+h1 {
+    text-align: center;
+}
+
+
+button {
+    color: green
+}
+
+header {
+    background-color: #043a2e;
+    color: #fff;
+    padding: 20px;
+  }
+  .banner-menu ul { 
+    margin: 20;
+    padding: 20;
+  }
+  .banner-menu ul li {
+    display: inline-block;
+    margin-right: 80px;
+  }  
+  .banner-menu ul li a {
+    color: #e8e8e8;
+    text-decoration: none;
+  }
+  .banner-menu ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .header-with-image {
+    position: relative;
+  }
+  
+  .header-with-image img {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  
+   
+  .footer-menu1 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .footer-menu1 ul li {
+    display: block;
+    margin-right: 10px;
+  }
+  
+  .footer-menu1 ul li a {
+    color: #1215dd;
+    text-decoration: none;
+  }
+
+  .footer-menu2 ul {
+    list-style-type: none;
+    margin: 20;
+    padding: 20;
+  }
+  
+  .footer-menu2 ul li {
+    display: block;
+    margin-right: 30px;
+  }
+  
+  .footer-menu2 ul li a {
+    color: #b11313;
+    text-decoration: blueviolet;
+  }
+  
